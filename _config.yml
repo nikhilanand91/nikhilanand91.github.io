@@ -78,8 +78,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Publications (ML)'    
-    title: 'Publications (Physics)'
+    title: 'Publications'    
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
