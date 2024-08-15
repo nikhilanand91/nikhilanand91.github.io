@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hi, I'm Nikhil!
 
 I'm a senior research scientist at Harvard's [Kempner Institute](https://kempnerinstitute.harvard.edu/).  Before that, I was a research scientist at Amazon working on NLP and before that, I was a postdoctoral fellow in theoretical physics at McGill University as part of the [Simon's Collaboration on the Nonperturbative Bootstrap](https://bootstrapcollaboration.com/).  I completed by PhD in 2018 at Johns Hopkins University where I was advised by [Jared Kaplan](https://sites.krieger.jhu.edu/jared-kaplan/), and my Bachelor's at UC Berkeley.
@@ -58,3 +59,9 @@ For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 >>>>>>> parent of 2e837a9 (Change about me)
+=======
+I'm currently a senior research scientist at Harvard's [Kempner Institute](https://kempnerinstitute.harvard.edu/), where I work on understanding foundation models.  Before that, I was a research scientist at Amazon and before that, I was a theoretical physicist in the [Simon's Collaboration on the Nonperturbative Bootstrap](https://bootstrapcollaboration.com/).  I completed by PhD in 2018 at Johns Hopkins University where I was advised by [Jared Kaplan](https://sites.krieger.jhu.edu/jared-kaplan/).
+
+<!-- A data-driven personal website
+====== -->
+>>>>>>> parent of 01e46d5 (edit layout, add research)
