@@ -7,5 +7,5 @@ title: "Teaching"
 
 I am giving a couple of guest lectures for [CS 2281R](https://shamulent.github.io/CS_2281_2024.html), taught by [Prof. Sham Kakade](https://sham.seas.harvard.edu/):
 
-* [Hardware, DDP, checkpointing, and compute primitives](http://nikhilanand91.github.io/files/auto-diff.pdf)
+* [Hardware, DDP, checkpointing, and compute primitives](https://www.dropbox.com/scl/fi/ublytq30ac039n6xgefc2/Lec1_intro.pdf?rlkey=3yp2o60sn35imkw3x8bmwp0vh&st=940lvu0f&dl=0)
 * Parallelization (FSDP, Pipeline, Tensor, Sequential) (TK)
