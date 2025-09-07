@@ -1,0 +1,88 @@
+/* --- General Body and Font --- */
+body {
+    font-family: 'Domine', serif; /* Use the Domine font */
+    line-height: 1.5;
+    /* font-size: 15px; */
+    color: #050505; /* A very deep, rich black */
+    background-color: #ffffff;
+    margin: 20px;
+    -webkit-font-smoothing: antialiased; /* Ensure smooth text rendering */
+    -moz-osx-font-smoothing: grayscale; /* For Firefox */
+}
+
+/* --- Main Container for Centering --- */
+/* This creates the single, centered column like in your sketch */
+.container {
+    max-width: 650px; /* Sets a max width for the content */
+    margin: 40px auto; /* Centers the container on the page */
+    padding: 0 20px; /* Adds space on the sides for smaller screens */
+}
+
+/* --- Profile Photo --- */
+.profile-photo {
+    width: 220px; /* Adjust size as needed */
+    height: 220px;
+    border-radius: 50%; /* This makes the image a circle */
+    display: block; /* Allows centering with margin */
+    margin: 0 auto 20px; /* Centers the photo */
+    object-fit: cover; /* Prevents the image from stretching */
+}
+
+/* --- Headings --- */
+h1, h2 {
+    font-weight: normal; /* Makes headings look cleaner, less bold */
+    line-height: 1.2;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2.5em; /* Large main heading for your name */
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 1.5em;
+    margin-top: 40px; /* Space above each new section */
+    border-bottom: 1px solid #ccc; /* A subtle line to separate sections */
+    padding-bottom: 5px;
+}
+
+/* --- Links --- */
+a {
+    color: #000000; /* Links are black */
+    text-decoration: underline; /* Underlined to show they are clickable */
+    text-decoration-thickness: 1px;
+}
+
+a:hover {
+    background-color: #f0f0f0; /* A light grey highlight on hover */
+}
+
+/* --- Lists --- */
+ul {
+    list-style-type: disc;
+    padding-left: 20px; /* Indent list items */
+}
+
+li {
+    margin-bottom: 10px; /* Space between list items */
+}
+
+/* --- Icon Links --- */
+.icon-links {
+    text-align: center; /* Center the icons horizontally */
+    margin-bottom: 40px; /* Add space below the icons */
+}
+
+.icon-links a {
+    color: #050505; /* Use the same rich black as your text */
+    text-decoration: none; /* Remove the default underline */
+    font-size: 1.2em; /* Make icons larger */
+    margin: 0 12px; /* Add space between each icon */
+    transition: color 0.2s ease-in-out; /* Smooth color change on hover */
+}
+
+.icon-links a:hover {
+    color: #555555; /* Slightly lighten the icon on hover */
+    background-color: transparent; /* Override the general link hover style */
+}
